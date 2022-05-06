@@ -34,4 +34,25 @@ On closer inspection, in fact, digital transformation has not only “changed th
 The use of technologies including the 'Internet of Things', location-based services, artificial intelligence, augmented and virtual reality, and blockchain technology (see definitions below) has resulted in a tourism offer that is more attractive, efficient, inclusive, and economically, socially and environmentally.
 Digital transformation creates a system for gathering the right data and incorporating it fully for business intelligence at a higher level. It creates a way that different functional units within an organization can translate raw data into insights across various touchpoints
 
+3.1. The impact of digitalization on tourism
+Increased digitalization helps tourism businesses transform business models, scale services, and enter new markets. Investments in technology have resulted in increased market share, reduced costs, improved efficiencies, and reduced waste
+
+3.2. The need for digital transformation
+The development of new technologies is also a great place for tourism. An important element of digitization is continuous optimization, i.e. real-time updates of information on Covid-19 cases or information on the availability of transport/hotels. New technologies allow entrepreneurs to save time and money
+
+4. Digitally enhanced tourism trends
+Due to digital transformation strategy and other business transformations, travelers and people working in the industry could notice remarkable and positive changes that forever alter how people manage their trip-related needs driving digital transformation in the travel industry. It’s more than clear that the tourism companies that do not undergo a digital transformation process will lose their competitive edge and become obsolete.
+The time has come to embrace the changes and adopt cutting-edge technologies. For a better more connected world. Here. Today. Now. Your company can change the world.
+
+5. Tourism and technology
+Both customers and businesses can benefit from improved communication, reservations, and guest service systems. Technology has helped tourism and hospitality industries replace expensive human labor with technological labor. This helps reduce labor costs, but also helps avoid customer service issues.
+
+
+6. Traits of digital tourists
+The digital nature of tourism is determined by 1) analogical by digital tourism useful equipment (TUE), 2) a high acceptance of technology, and 3) a high assessment of the tourist experience obtained through mobile devices (MD)
+
+7. A Final Thought
+All around us today, business models are being radically transformed by digitalization. New opportunities are being created, as the rate of change continues to increase, and the number of new technologies continues to grow. Through the article, we also want to mention some of the current digital development trends in tourism in the world. 
+This shows that the digital transformation has not been fully implemented in the tourism industry of our country. Therefore, tourism businesses need to accept the change that comes from digital transformation and quickly catch up with the trend by re-examining the business model, reviewing the structure, the company management model and invest more in technology. If corporate culture does not catch up with that pace, it will inevitably be a stagnation, not only for the development of businesses but also for the integration of Vietnam’s tourism industry into trends. new technology in the world
+
 
